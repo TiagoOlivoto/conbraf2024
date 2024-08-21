@@ -3,7 +3,7 @@
 ##################################################################
 
 # Instruções:
-# Baixar o repositório '2dn_workshop_a4p0'
+# Baixar o repositório do github
 # Instalar a versão de desenvolvimento do pliman com o comando abaixo
 # Descomente para rodar
 
@@ -13,6 +13,7 @@
 library(pliman)
 library(tidyverse)
 set_wd_here()
+
 
 ################### Severidade de doenças ##################
 ## Interativa

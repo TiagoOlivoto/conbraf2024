@@ -1,6 +1,6 @@
 # Sobre esse material
 
-Material preparado para o [2º Workshop de Experimentação na Agricultura 4.0](https://www.expstat.com/eventos/link2work).
+Material preparado para o [VIIº Congresso Brasileiro de Fitossanidade](https://www.expstat.com/eventos/link2work).
 
 # Como reproduzir
 
@@ -8,20 +8,16 @@ Faça o download dos materiais
 
 <a href="https://github.com/TiagoOlivoto/2nd_workshop_a4p0/archive/refs/heads/main.zip"> <button class="btn btn-success"><i class="fa fa-save"></i> Download das imagens e scripts</button> </a>
 
-
-
-# Instale o pacote pliman do github
-```{r eval=FALSE}
-devtools::install_github("TiagoOlivoto/pliman")
-```
+`
 
 # Abra o script
-Abra o script `scripts_pliman.R` e execute os exemplos.
+Abra o script `scripts_pliman.R` e siga os códigos de exemplo.
 
 
 # Slides
 
-Veja os slides [aqui](https://tiagoolivoto.github.io/slides_R/slides/r_evolution_workshop/index.html#1)
+
+Veja os slides [aqui](https://www.canva.com/design/DAGN7fjEXUA/Y__gRO-isAYf41eQ9qhkKQ/view?utm_content=DAGN7fjEXUA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
